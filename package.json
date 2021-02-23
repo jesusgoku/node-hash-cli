@@ -1,0 +1,13 @@
+{
+  "name": "hash-cli",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Jesús Urrutia <jesus.urrutia@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "hash": "node src/index.js"
+  },
+  "bin": {
+    "hash-cli": "src/index.js"
+  }
+}
